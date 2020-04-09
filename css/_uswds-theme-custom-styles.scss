@@ -276,10 +276,10 @@ body {
     line-height: units(5);
 
     &::before {
-      @include u-square($logo-size-mobile);
+      height: 2.4rem;
+      width: 9rem;
       content: "";
-      background-image: url("../img/uswds-logo/4c-lg-on-white.png");
-      background-image: url("../img/uswds-logo/4c-lg-on-white.svg");
+      background-image: url("../img/lab-logos/Logo_2017_color_RGB-01.svg");
       background-repeat: no-repeat;
       background-size: 100% auto;
       display: inline-block;
@@ -290,7 +290,8 @@ body {
       vertical-align: middle;
 
       @include at-media("desktop") {
-        @include u-square($logo-size-desktop);
+        height: 2.4rem;
+        width: 9rem;
       }
     }
 
@@ -655,7 +656,7 @@ body {
     }
 
     img {
-      width: units(4);
+      width: 6remw;
     }
 
     a {
@@ -2411,13 +2412,6 @@ h6 + div:not(.usa-accordion__content) {
   .site-logo {
     a {
       color: color("white");
-    }
-
-    .usa-logo__text {
-      &::before {
-        background-image: url("../img/uswds-logo/4c-lg-on-black.png");
-        background-image: url("../img/uswds-logo/4c-lg-on-black.svg");
-      }
     }
   }
 

@@ -1,8 +1,16 @@
-Welcome:
+Discovery Concept Guide:
   - text: Welcome
     href: /
-  - text: Home Sub
-    href: /home-sub/
+  - text: Discovery Cycle
+    href: /cycle/
+  - text: Present
+    href: /present/
+  - text: Next Steps
+    href: /next/
+  - text: Glossary
+    href: /glossary/
+
+
 
 Page templates:
   - href: /page-templates/

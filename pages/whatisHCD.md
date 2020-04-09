@@ -1,33 +1,60 @@
 ---
 permalink: /whatisHCD/
 layout: styleguide
-title: HCD Discovery Concept Guide
-category: Welcome
+title: Human-Centered Design
+category: Discovery Concept Guide
 lead:
 subnav:
-- text: test2
-  href: '#test2'
-- text: System tokens
-  href: '#asdfasdf'
+- text: HCD Principles
+  href: '#hcd-principles'
+- text: HCD in Practice
+  href: '#hcd-in-practice'
+- text: Keywords
+  href: '#keywords'
 
 ---
 
-## test test test
+## What is HCD?
 
-Welcome to the Human-Centered Design Guide Series from the Lab at OPM! We're excited you're here. Before you get started, here are some details about the Guide Series. If you've already seen this information in our Github wiki, feel free to skip this section.
+Human-Centered Design (HCD) is a problem-solving framework that helps make systems and products more responsive to the people, or the customers, who use those systems and products. It requires rigorous qualitative research, directing that research towards the goal of deeply understanding the needs, insights, and emotions of customers. By using Human-Centered Design, we can focus our time, resources, and energy on solutions and innovations that make service delivery effective, easy, and in tune with the emotions of our customers.
 
-## test2
+HCD involves four phases of sequential work: discovery, design, delivery, and measurement. HCD is also cyclical. Once a design solution is launched, we measure its effectiveness against initial and intended aims, and then we continually tweak it, thus improving the solution over time. HCD recognizes that people and their needs are dynamic and changing and so our solutions are dynamic and changing.
 
-The Guides are structured as a travel series through design. In the same way you can collect travel guides to Kyoto and Tokyo and Nagasaki instead of a single, lengthy all-Japan travel guide, our HCD Guide series provides two slim volumes for each phase of the HCD process: a Concept guide, focusing on <b>why</b> the phase works the way it does, and an Operations guide with checklists and frameworks to help with the <b>how</b> of the phase.
+![HCD Bubble Diagram](/assets/img/bubble_diagram-blue-01.svg)
 
-## Audience
+HCD allows us to understand the types of experiences customers want from a system, product or service. We refer to the customers’ desired experience as the “front stage” of the design effort. HCD also helps us craft the processes that creates those desired experiences. We refer to this behind-the-scenes work as “the back stage” of the design effort. By tending to the front stage and the back stage, HCD allows us to put the customer at the center of our design development.
 
-The audience for this Guide series are those in both formal and informal leadership positions. Any individual who has been assigned or sees the need for generative (not reductive or evaluative) projects and have some access to support from professional designers will be able to use the Series successfully.
+The HCD approach has already created immense value in advancing agency missions. For example, redesigning USAJOBS, the hub for federal hiring where nearly 1 billion job searches are done annually by over 180 million people, has resulted in a 30% reduction in help desk tickets after the first round of improvements. Not only does this reflect an easier experience for those involved in the hiring process, this change also creates savings in support costs.
 
-## Following in the Footsteps of Giants
+## HCD Principles
 
-We're excited to follow in the tradition of beautiful, robust guidance from federal government agencies. It's our dream for the Guide Series to bring design process guidance to shelves containing tomes like <a href= "https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf">NASA's 1976 Graphics Manual</a> and the <a href= "https://standardsmanual.com/products/epa">EPA's Graphic Standards System.</a> In the digital era, we strive to create UX experiences with the HCD Guide Series like the ones supported by the <a href= "https://cfpb.github.io/design-manual/">Consumer Financial Protection Bureau's Design Manual.</a>
+When engaging in Human-Centered Design (HCD) Research:
 
-## asdfasdf
+1. Listen deeply for what people say they want and need and how they may be creating
+workarounds to meet their needs.
+1. Listen for the root causes that inform the attitudes, behaviors, and beliefs of the people you’re interviewing.
+1. Be aware of your own internal biases or judgments.
+1. Fail early; fail fast; fail small. Know that iteration is learning.
+1. Learn first, don’t jump to solutions.
+1. Be inclusive and make sure you’re always hearing multiple perspectives. This goes for researchers and research subjects.
+1. Be flexible in your thinking and plans. Adapt to changing conditions. Sometimes unexpected events or even kinks in the process can open the door to key insights or findings.
 
-We welcome your feedback and contributions so we can continue to improve this HCD Guide Series as a whole or in part. If you have any suggestions or are interested in getting involved, please <a href= "https://github.com/The-Lab-at-OPM/HCD-Discovery-Concept-Guide/issues/new">create an issue in GitHub.</a>
+
+## HCD in Practice
+
+Another example involves rethinking USDA’s application process for free and reduced lunch for low-income students. By leveraging HCD techniques to identify issues and simplify the form from 5 pages to 1 page, USDA anticipates a system-wide savings of $600M over 5 years. Following that initial effort, USDA utilized rapid iteration through a challenge platform to create a digital prototype available to districts nationwide in order to create greater cost savings and efficiency as well as a better experience for parents and program administrators in the future.
+
+
+## Keywords
+
+These keywords embody the Guiding Principles of Human-Centered Design:
+
++ Empathy
++ No wrong ideas
++ Yes, and
++ Collaboration
++ Inclusion
++ Innovation
++ Iteration
+
+Throughout this guide, you may encounter words or concepts that are unfamiliar to you. Definitions and explanations can be found in the <a href= "/glossary.md">Glossary.</a>

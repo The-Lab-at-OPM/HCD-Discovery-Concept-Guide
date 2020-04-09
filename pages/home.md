@@ -2,13 +2,15 @@
 permalink: /
 layout: styleguide
 title: HCD Discovery Concept Guide
-category: Welcome
+category: Discovery Concept Guide
 lead:
 subnav:
 - text: Purpose
   href: '/purpose/'
 - text: What is HCD?
   href: '/whatisHCD/'
+- text: Working with HCD
+  href: '/working/'
 ---
 
 ## Welcome

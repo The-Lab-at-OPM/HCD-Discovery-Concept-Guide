@@ -2,7 +2,7 @@
 permalink: /purpose/
 layout: styleguide
 title: Purpose of this Guide
-category: Welcome
+category: Discovery Concept Guide
 lead:
 ---
 
