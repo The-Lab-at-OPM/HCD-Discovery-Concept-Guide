@@ -16,7 +16,7 @@ You may ask yourself, “Is this an insight?” or “Is what I’m saying too s
 
 Insights live right in the middle of the experiences, perceptions, or impressions you heard from your participants.
 
-![Diagrammatic illustration of finding insights. The team finds insights when they pass the raw research they gathered through the lens of their problem frame or brief.](/assets/img/insights-02.svg)
+![Diagrammatic illustration of finding insights. The team finds insights when they pass the raw research they gathered through the lens of their problem frame or brief.]({{ site.baseurl }}/assets/img/insights-02.svg)
 
 The sweet spot is where the participant experiences, perceptions, and impressions are neither too specific nor too general. Generalities are often already known, while unique experiences, perceptions, or impressions might not have resonance across your agency’s customers.
 
@@ -24,7 +24,7 @@ The sweet spot is where the participant experiences, perceptions, and impression
 
 Finding insights means looking at your reseach findings through the lens of your problem frame or brief. Through this convergent thinking action, you'll bind together the different, individual pieces of research into recognizable patterns, creating insights with which to move forward.
 
-![Diagrammatic illustration of finding insights. The team finds insights when they pass the raw research they gathered through the lens of their problem frame or brief.](/assets/img/convex-1-01.svg)
+![Diagrammatic illustration of finding insights. The team finds insights when they pass the raw research they gathered through the lens of their problem frame or brief.]({{ site.baseurl }}/assets/img/convex-1-01.svg)
 
 
 ### Process 1: Sorting By Action

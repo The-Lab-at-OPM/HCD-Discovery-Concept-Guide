@@ -8,7 +8,7 @@ lead:
 
 ---
 
-![HCD Discovery Cycle illustration with everything except the Before bubble grayed out. Inside the bubble labeled "Before", four squares are labeled "1. Brief", "2. Frame", "3. Recruit", and "4. Plan".](/assets/img/New-Diagrams-before-02.svg)
+![HCD Discovery Cycle illustration with everything except the Before bubble grayed out. Inside the bubble labeled "Before", four squares are labeled "1. Brief", "2. Frame", "3. Recruit", and "4. Plan".]({{ site.baseurl }}/assets/img/New-Diagrams-before-02.svg)
 
 ## Brief
 

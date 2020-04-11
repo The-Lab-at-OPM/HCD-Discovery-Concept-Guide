@@ -100,14 +100,14 @@ and would look something like:
 ```html
 <ul>
   <li>
-    <a href="/page-one/" class="usa-current">Page one</a>
+    <a href="{{ site.baseurl }}/page-one/" class="usa-current">Page one</a>
     <ul class="usa-sidenav__sub_list">
       <li><a href="#section-one">Section one</a></li>
       <li><a href="#section-two">Section two</a></li>
     </ul>
   </li>
-  <li><a href="/page-two/">Page two</a></li>
-  <li><a href="/page-three/">Page three</a></li>
+  <li><a href="{{ site.baseurl }}/page-two/">Page two</a></li>
+  <li><a href="{{ site.baseurl }}/page-three/">Page three</a></li>
 </ul>
 ```
 

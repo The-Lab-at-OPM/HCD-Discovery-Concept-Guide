@@ -16,7 +16,7 @@ lead:
 
 You find opportunities by viewing your insights through the lens of your organization's business offerings or capabilities. Literally, opportunities are the fields in which your organization can innovate and offer new or revised products, services, and systems.
 
-![Diagrammatic illustration of finding insights. The team finds insights when they pass the raw research they gathered through the lens of their problem frame or brief.](/assets/img/concave-03.svg)
+![Diagrammatic illustration of finding insights. The team finds insights when they pass the raw research they gathered through the lens of their problem frame or brief.]({{ site.baseurl }}/assets/img/concave-03.svg)
 
 
 ## Why Find Opportunities?

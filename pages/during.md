@@ -15,7 +15,7 @@ subnav:
 
 ---
 
-![HCD Discovery Cycle illustration with everything except the During bubble grayed out. Inside the "During" bubble, there are four squares, each with differently shaped squiggly lines inside. They're all labeled "participants" and represent participants' different paths through a problem frame.](/assets/img/New-Diagrams-during-04.svg)
+![HCD Discovery Cycle illustration with everything except the During bubble grayed out. Inside the "During" bubble, there are four squares, each with differently shaped squiggly lines inside. They're all labeled "participants" and represent participants' different paths through a problem frame.]({{ site.baseurl }}/assets/img/New-Diagrams-during-04.svg)
 
 ## Conduct Research
 
@@ -23,14 +23,14 @@ subnav:
 
 Conduct your research in pairs. Identify the person who will ask questions and the person who will take notes. The interviewer should focus on the interviewee; the notetaker is there to support and document. Introduce yourselves, explain the consent form, and ask the participant to sign it. The notetaker can secure the signed form.
 
-![Illustration of human outlines talking to each other and using pen and paper and a camera to document the interview.](/assets/img/pair-up-01.svg)
+![Illustration of human outlines talking to each other and using pen and paper and a camera to document the interview.]({{ site.baseurl }}/assets/img/pair-up-01.svg)
 
 
 ### Equipment
 
 The equipment for this kind of research is simple and low-tech. Don’t bring your laptop into an interview unless absolutely necessary. And do not use it to take notes. Instead, notes should be hand-written. If you have received consent to capture audio, use a recording device, such as a smartphone. Reserve a quiet, private room or wherever your participant feels comfortable. This may be in the participant’s home, at office, or in a public place of the participant’s choosing. No matter where the interview takes place, try to create a safe, comfortable, and quiet space where your participant can speak honestly about the subject.
 
-![Illustration of paper, pens, camera, phone, and a questionionnare to illustrate the different materials that can be used during interviews.](/assets/img/equipement-01.svg)
+![Illustration of paper, pens, camera, phone, and a questionionnare to illustrate the different materials that can be used during interviews.]({{ site.baseurl }}/assets/img/equipement-01.svg)
 
 ## Interview Preparation Tips
 

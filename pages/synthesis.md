@@ -11,7 +11,7 @@ subnav:
   href: '/opportunities/'
 ---
 
-![HCD Discovery Cycle illustration with everything except the After bubble grayed out. Inside the "After" bubble, there are three squares, labeled Insights, Opportunities, and Present. Each square has an icon associated with it. The Insights square has lines converging after passing through a convex lens to represent the convergence of research into Insights. The Opportunities square has lines diverging after passing through a concave lens to represent the divergence of Insights into Opportunity spaces for design. The Present squre has an icon of a piece of paper with writing on it.](/assets/img/New-Diagrams-during-04.svg)
+![HCD Discovery Cycle illustration with everything except the After bubble grayed out. Inside the "After" bubble, there are three squares, labeled Insights, Opportunities, and Present. Each square has an icon associated with it. The Insights square has lines converging after passing through a convex lens to represent the convergence of research into Insights. The Opportunities square has lines diverging after passing through a concave lens to represent the divergence of Insights into Opportunity spaces for design. The Present squre has an icon of a piece of paper with writing on it.]({{ site.baseurl }}/assets/img/New-Diagrams-during-04.svg)
 
 ## Introduction
 

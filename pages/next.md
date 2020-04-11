@@ -19,7 +19,7 @@ If, on the other hand, you have come this far and have not gained consensus, <i>
 
 Whether your next step is to move into Design, or whether it is reframe and d0 a second round of research, the most important thing is to keep your agency customers’ interests in mind and to use that north star to guide your continued efforts.
 
-![HCD Bubble Diagram with the Design phase highlighted](/assets/img/design-phase-next-01.svg)
+![HCD Bubble Diagram with the Design phase highlighted]({{ site.baseurl }}/assets/img/design-phase-next-01.svg)
 
 ## Thanks and Acknowledgements
 
