@@ -22,7 +22,7 @@ Your presentation is simple and brief— and also make sure that it is warm and 
 
 Use your insights as a means to engage your agency partners in a broader discussion about potential improvements to customer service. Seek consensus, where possible, across the many stakeholders who have an interest in your research project.
 
-![Photograph of people collaborating to present Synthesis findings.](/assets/img/stories-present-02.jpg)
+![Photograph of people collaborating to present Synthesis findings.]({{ site.baseurl }}/assets/img/stories-present-02.jpg)
 
 ## Communication
 
@@ -38,4 +38,4 @@ Communicate your findings clearly and concisely by listing the insights you foun
 
 Consider using a model like the one below as one way to share your findings to the audience. By deciding upon a standard communication method at the outset of your project, you help ensure that members of the research team, and later your audience, are speaking the same language and on the same page.
 
-![Illustration of a slide with an Insight at the top center and three Opportunities listed beneath it.](/assets/img/comms-04.svg)
+![Illustration of a slide with an Insight at the top center and three Opportunities listed beneath it.]({{ site.baseurl }}/assets/img/comms-04.svg)

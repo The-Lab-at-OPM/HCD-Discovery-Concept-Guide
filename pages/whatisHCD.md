@@ -20,7 +20,7 @@ Human-Centered Design (HCD) is a problem-solving framework that helps make syste
 
 HCD involves four phases of sequential work: discovery, design, delivery, and measurement. HCD is also cyclical. Once a design solution is launched, we measure its effectiveness against initial and intended aims, and then we continually tweak it, thus improving the solution over time. HCD recognizes that people and their needs are dynamic and changing and so our solutions are dynamic and changing.
 
-![HCD Bubble Diagram](/assets/img/bubble_diagram-blue-01.svg)
+![HCD Bubble Diagram]({{ site.baseurl }}/assets/img/bubble_diagram-blue-01.svg)
 
 HCD allows us to understand the types of experiences customers want from a system, product or service. We refer to the customers’ desired experience as the “front stage” of the design effort. HCD also helps us craft the processes that creates those desired experiences. We refer to this behind-the-scenes work as “the back stage” of the design effort. By tending to the front stage and the back stage, HCD allows us to put the customer at the center of our design development.
 
@@ -57,4 +57,4 @@ These keywords embody the Guiding Principles of Human-Centered Design:
 + Innovation
 + Iteration
 
-Throughout this guide, you may encounter words or concepts that are unfamiliar to you. Definitions and explanations can be found in the <a href= "/glossary.md">Glossary.</a>
+Throughout this guide, you may encounter words or concepts that are unfamiliar to you. Definitions and explanations can be found in the <a href= "{{ site.baseurl }}/glossary.md">Glossary.</a>

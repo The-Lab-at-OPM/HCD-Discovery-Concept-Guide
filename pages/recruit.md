@@ -8,7 +8,7 @@ lead:
 
 ---
 
-![Several photos of participants in past human-centered design research projects conducted by the Lab and the Veterans Experience Office.](/assets/img/Vets-grid.jpg)
+![Several photos of participants in past human-centered design research projects conducted by the Lab and the Veterans Experience Office.]({{ site.baseurl }}/assets/img/Vets-grid.jpg)
 
 ## Principles
 
@@ -24,7 +24,7 @@ Partner with the facility, union(s), and/or organization you’re studying. Find
 
 People familiar with quantitative research look for statistical significance. Qualitative research is different. Acknowledge this difference with any quantitatively-based partners. Discuss with them how usable insights from the qualitative side give color and human insight to the quantitative data to which they have access. While quantitative data informs service effectiveness quite well, qualitative data leads to services that are easy, effective, and emotionally resonant and can come from any individual. We don’t need huge sample sizes to find usable insights.
 
-![HCD Discovery Cycle illustration with everything except the Before bubble grayed out. Inside the bubble labeled "Before", four squares are labeled "1. Brief", "2. Frame", "3. Recruit", and "4. Plan".](/assets/img/New-Diagrams-before-02.svg)
+![HCD Discovery Cycle illustration with everything except the Before bubble grayed out. Inside the bubble labeled "Before", four squares are labeled "1. Brief", "2. Frame", "3. Recruit", and "4. Plan".]({{ site.baseurl }}/assets/img/New-Diagrams-before-02.svg)
 
 ## Methods
 

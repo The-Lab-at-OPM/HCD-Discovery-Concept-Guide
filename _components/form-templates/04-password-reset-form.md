@@ -30,7 +30,7 @@ lead: Reset a password
     <h4>Implementation</h4>
     <ul class="usa-content-list">
       <li>For guidance on the technical details of validation, see the
-        <a href="/components/form-controls/#validation">validation documentation</a>.</li>
+        <a href="{{ site.baseurl }}/components/form-controls/#validation">validation documentation</a>.</li>
       </ul>
     <h4 class="usa-heading">Package information</h4>
     <ul class="usa-content-list">

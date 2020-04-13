@@ -8,7 +8,7 @@ lead:
 
 ---
 
-![HCD Discovery Cycle illustration with everything except the Before bubble grayed out. Inside the bubble labeled "Before", four squares are labeled "1. Brief", "2. Frame", "3. Recruit", and "4. Plan".](/assets/img/New-Diagrams-before-02.svg)
+![HCD Discovery Cycle illustration with everything except the Before bubble grayed out. Inside the bubble labeled "Before", four squares are labeled "1. Brief", "2. Frame", "3. Recruit", and "4. Plan".]({{ site.baseurl }}/assets/img/New-Diagrams-before-02.svg)
 
 ## Plan the Interview
 
@@ -33,6 +33,6 @@ the interviews:
 
 ## Visualizing an HCD Interview
 
-![Illustration of an interview arc. Time is on the x axis; energy and emotion are indicated by the y axis. The steps move along a timeline in the following order: Introduce yourself, Introduce the project, Build rapport, Evoke stories, Explore emotions, Question statements, Thank you and Wrap up. The energy of the interview line starts to increase at Build Rapport and peaks at Explore emotions. It quickly returns to normal energy level in time for Thank you and Wrap up.](/assets/img/interview-arc-01.svg)
+![Illustration of an interview arc. Time is on the x axis; energy and emotion are indicated by the y axis. The steps move along a timeline in the following order: Introduce yourself, Introduce the project, Build rapport, Evoke stories, Explore emotions, Question statements, Thank you and Wrap up. The energy of the interview line starts to increase at Build Rapport and peaks at Explore emotions. It quickly returns to normal energy level in time for Thank you and Wrap up.]({{ site.baseurl }}/assets/img/interview-arc-01.svg)
 
 This diagram is a visual representation of the path of a typical HCD discovery interview. We invite you to use it as a guide for planning your own interviews, if you find it helpful. It is adapted from adapted from work from Stanford’s d.School and represents a path you may follow when conducting an interview.
