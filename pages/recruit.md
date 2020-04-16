@@ -8,7 +8,7 @@ lead:
 
 ---
 
-![Several photos of participants in past human-centered design research projects conducted by the Lab and the Veterans Experience Office.]({{ site.baseurl }}/assets/img/Vets-grid.jpg)
+![Several photos of participants in past human-centered design research projects conducted by the Lab and the Veterans Experience Office.]({{ site.baseurl }}/img/Vets-grid-grayscale-lighter.jpg)
 
 ## Principles
 
